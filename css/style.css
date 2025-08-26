@@ -339,3 +339,12 @@
     height: 70px;
     width: 70px;
 }
+
+.nostyle{
+    text-decoration: none;
+    color: black;
+}
+
+.nostyle:hover{
+    color: rgb(71, 71, 71);
+}
